@@ -66,7 +66,7 @@ Finally, I wrote a footer that contained links to my socials and text saying "Le
 
 ### What I Learned 🗒️
 
-This project taught me to adapt. It showed me it wasn't bad to look at other's design to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
+This project taught me the importance to adapt according to my energy levels and situation. It showed me it wasn't bad to look at other's design, get inspired, and to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
 
 ## Author 👨🏻‍💻
 
