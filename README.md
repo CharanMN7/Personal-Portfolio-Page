@@ -12,7 +12,7 @@ I built this as a submission for my Responsive Web Design course on freeCodeCamp
   - [My Process (A Story) 📝](#my-process-a-story-)
       - [Finally, the process](#finally-the-process)
     - [Built with 🛠️](#built-with-️)
-    - [What you Learned 🗒️](#what-you-learned-️)
+    - [What I Learned 🗒️](#what-i-learned-️)
   - [Author 👨🏻‍💻](#author-)
 
 ## Overview 🎯
