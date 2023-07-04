@@ -64,7 +64,7 @@ Finally, I wrote a footer that contained links to my socials and text saying "Le
 - CSS
 - A lot of brainstorming and hard work
 
-### What you Learned 🗒️
+### What I Learned 🗒️
 
 This project taught me to adapt. It showed me it wasn't bad to look at other's design to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
 
