@@ -12,7 +12,7 @@ I built this as a submission for my Responsive Web Design course on freeCodeCamp
   - [My Process (A Story) 📝](#my-process-a-story-)
       - [Finally, the process](#finally-the-process)
     - [Built with 🛠️](#built-with-️)
-    - [What you Learned 🗒️](#what-you-learned-️)
+    - [What I Learned 🗒️](#what-i-learned-️)
   - [Author 👨🏻‍💻](#author-)
 
 ## Overview 🎯
@@ -54,7 +54,7 @@ I started off by writing the HTML for the hero section. And then I wrote the CSS
 
 Then I wrote the projects section. I created the HTML card and copied it 6 times. Then I wrote CSS for it. Now, I was contemplating whether to use `flexbox` or `grid` for the layout. Later I found `grid` made it easier and looked better. So, I used a grid to layout the cards.
 
-Later, I created a section called "My Tech Stack" It had 3 lists, and one huge heading. I played around and hardcoded some HTML for it look that way. I use `grid` for the layout of this section.
+Later, I created a section called "My Tech Stack" It had 3 lists, and one huge heading. I played around and hardcoded some HTML for it to look the way it is. I used `grid` for the layout of this section.
 
 Finally, I wrote a footer that contained links to my socials and text saying "Let's Connect". The icons change colors when you hover the mouse over them. I finished the work right before bed, after finishing the top nav bar that stays fixed all time
 
@@ -64,9 +64,9 @@ Finally, I wrote a footer that contained links to my socials and text saying "Le
 - CSS
 - A lot of brainstorming and hard work
 
-### What you Learned 🗒️
+### What I Learned 🗒️
 
-This project taught me to adapt. It showed me it wasn't bad to look at other's design to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
+This project taught me the importance to adapt according to my energy levels and situation. It showed me it wasn't bad to look at other's design, get inspired, and to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
 
 ## Author 👨🏻‍💻
 
