@@ -21,7 +21,7 @@ This website display some of my projects and a list of my tech skills. You'll fi
 
 ### Screenshots 🖼️
 
-![](/Screenshots/desktop.png)  
+![](src/Screenshots/desktop.png)  
 Desktop version
 
 ![]()  
