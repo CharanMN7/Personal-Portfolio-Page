@@ -178,7 +178,7 @@ h2 {
 
 .box {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(355px, 1fr));
   text-align: center;
   align-items: center;
   justify-content: center;
