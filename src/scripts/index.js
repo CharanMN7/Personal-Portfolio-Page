@@ -40,3 +40,6 @@ for (let x of tiles) {
     e.preventDefault();
   });
 }
+
+const present = new Date();
+document.getElementById("date").innerText = present.getFullYear();
