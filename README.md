@@ -42,11 +42,11 @@ By the time I started this project, I had learned a few cool things like **wiref
 
 I started right in the morning. We were having a family reunion at that time. All of my family was having fun outside and I'm stuck in the house to babysit my little niece. Perfect time to code all day!
 
-I began by wireframing the idea I had in my mind and writing down a base plan of how to create the layout and the style of the background. The idea I had was, the backgound will have an autumn style forest with blurry cards, like on the iPhone/iPad. With the idea in my head and the plan in my notebook, I began coding.
+I began by wireframing the idea I had in my mind and writing down a base plan of how to create the layout and the style of the background. The idea I had was, the background will have an autumn style forest with blurry cards, like on the iPhone/iPad. With the idea in my head and the plan in my notebook, I began coding.
 
-It was a lazy day, so I decided to code slowly because, my work was fairly simple (at least that's what I though at the moment). Halfway through and for some reason I didn't like the design. Maybe a different background image would've helped, but, no, it was like the 20th image I've used. I tried tweaking the cards, the background, and different ways of styling them. I looked at the watch and it was evening already, I even forgot my lunch! (don't worry, my niece had her lunch). Frustrated, I left my laptop and went away to eat something.
+It was a lazy day, so I decided to code slowly because, my work was fairly simple (at least that's what I thought at the moment). Halfway through, and for some reason I didn't like the design. Maybe a different background image would've helped, but, no, it was like the 20th image I've used. I tried tweaking the cards, the background, and different ways of styling them. I looked at the watch, and it was already evening. I even forgot my lunch! (Don't worry, my niece had her lunch.) Frustrated, I left my laptop and went away to eat something.
 
-Finally, I've decided to delete the entire code I wrote and start over. This time, no autumn style backgrounds or blurry cards like on the iPad. That's what I told myself. And opened [dribbble.com](https://dribbble.com) for some inspiration. And I saw somebody's portfolio page that looked similar to my idea but without any background images or blurry cards, and it looked great! So, I decided to stick with my initial idea but write it from scratch, and this time, I kept it really simple.
+Finally, I've decided to delete the entire code I wrote and start over. This time, there are no autumn-style backgrounds or blurry cards like on the iPad. That's what I told myself. And opened [dribbble.com](https://dribbble.com) for some inspiration. And I saw somebody's portfolio page that looked similar to my idea but without any background images or blurry cards, and it looked great! So, I decided to stick with my initial idea but write it from scratch, and this time, I kept it really simple.
 
 #### Finally, the process
 
@@ -58,15 +58,22 @@ Later, I created a section called "My Tech Stack." It had 3 lists and one huge h
 
 Finally, I wrote a footer that contained links to my socials and text saying "Let's Connect". The icons change color when you hover the mouse over them. I finished the work right before bed, after finishing the top nav bar that stays fixed all the time.
 
+#### Updated my protfolio with JavaScript!
+
+I just updated my portfolio site with JavaScript for (chingu.io)[https://chingu.io]. I added an overlay card that has a little description about the project and a *visit* button and a *close* button. It took me a little while to figure it out but it was easy.
+
+First, I created an `aside` element which I intended to use as my overlay card. I put in a `figure` element and turned it into flexboxes and put in an image and a `figcaption` that has a heading and a little paragraph to describe the project. Then I hid it from displaying immediately. It should pop-up only when a project is clicked on. And that too, with the same data as the project. In order to achieve htis, I used JavaScrript's event object quite a lot, to extract the information from existing HTML and use it for the overlay card. This allowed me to write only a single card and customize it based on which project is clicked.
+
 ### Built with 🛠️
 
 - HTML
 - CSS
+- JavaScript
 - A lot of brainstorming and hard work
 
 ### What I Learned 🗒️
 
-This project taught me the importance to adapt according to my energy levels and situation. It showed me it wasn't bad to look at other's design, get inspired, and to create your own. And ofcourse, on the tech side of things, it helped me practice my grid skills and gradients.
+This project taught me the importance of adapting according to my energy levels and situation. It showed me it wasn't bad to look at other people's designs, get inspired, and create your own. And of course, on the tech side of things, it helped me practice my grid skills and gradients.
 
 ## Author 👨🏻‍💻
 
