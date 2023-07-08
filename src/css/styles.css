@@ -106,13 +106,7 @@ h2 {
   justify-content: center;
   align-items: flex-start;
   background-color: whitesmoke;
-  background: radial-gradient(
-    at 0% 100%,
-    rgb(123, 211, 255) -30%,
-    whitesmoke 50%,
-    whitesmoke 65%,
-    rgba(255, 255, 0, 0.53) 120%
-  );
+  background: radial-gradient(at 0% 100%, rgb(123, 211, 255) -30%, whitesmoke 50%, whitesmoke 65%, rgba(255, 255, 0, 0.53) 120%);
   width: 60%;
   margin: 2rem 1rem;
   padding: 2rem;
@@ -173,6 +167,10 @@ h2 {
 .project-tile img {
   border-radius: var(--border-rad) var(--border-rad) 0 0;
   width: 100%;
+}
+
+.description {
+  display: none;
 }
 
 /* END OF PROJECTS SECTION */
@@ -250,8 +248,8 @@ aside {
   position: fixed;
   width: 100%;
   height: 100%;
-  background-color: #00000055;
-  z-index: 999;
+  background-color: #00000088;
+  backdrop-filter: blur(1rem);
   top: 0;
   left: 0;
   right: 0;
@@ -259,20 +257,13 @@ aside {
   overflow: hidden;
   display: none;
   flex-wrap: nowrap;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 #overlay {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
-  max-width: fit-content;
-}
-
-#overlay a {
-  width: fit-content;
+  width: max-content;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -298,23 +289,34 @@ aside {
   border-bottom-right-radius: var(--border-rad);
 }
 
+#overlay-caption h2 {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  font-weight: bold;
+}
+
 #overlay-btns {
   display: flex;
   justify-content: space-between;
+  text-align: center;
 }
 
 .overlay-btn {
-  width: 48%;
+  width: 45%;
   padding: 0.5rem;
   font-size: 1.2rem;
   border-radius: var(--border-rad);
   border: none;
   cursor: pointer;
+  text-decoration: none;
 }
 
 #visit {
   background-color: #007aff;
   color: white;
+  margin-right: 0.5rem;
 }
 
 #visit:hover {
@@ -323,6 +325,12 @@ aside {
 
 #visit:active {
   background-color: #0868ac;
+}
+
+#close {
+  background-color: #eeeeee;
+  color: black;
+  margin-left: 0.5rem;
 }
 
 #close:hover {
