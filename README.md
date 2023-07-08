@@ -1,6 +1,6 @@
 # Personal Portfolio Page
 
-I built this as a submission for my Responsive Web Design course on freeCodeCamp. This is the first portfoilio page I've built. I put in some of my projects and a few programming languages I'm a confident coding in, in this page. Visit it [here](https://charanmn7.github.io/Personal-Portfolio-Page/).
+I built this as a submission for my Responsive Web Design course on freeCodeCamp. This is the first portfolio page I've built. I put some of my projects and a few programming languages I'm confident coding in on this page. Visit it [here](https://charanmn7.github.io/Personal-Portfolio-Page/).
 
 ## Table Of Contents 📖
 
@@ -17,7 +17,7 @@ I built this as a submission for my Responsive Web Design course on freeCodeCamp
 
 ## Overview 🎯
 
-This website display some of my projects and a list of my tech skills. You'll find a fixed navigation bar at the top of the page, a hero section, a grid containing my projects, and a second grid containing my tech skills. At the bottom, you'll find a footer with links to my socials.
+This website displays some of my projects and a list of my tech skills. You'll find a fixed navigation bar at the top of the page, a hero section, a grid containing my projects, and a second grid containing my tech skills. At the bottom, you'll find a footer with links to my socials.
 
 ### Screenshots 🖼️
 
@@ -36,9 +36,9 @@ Mobile Version
 
 If you're only interested in the process of the final outcome, you can skip [here](#finally-the-process)
 
-I managed to build this project in a single day, but it's too short to express the amount of work I put into it. This is the last submission in freeCodeCamp's certification and that thought itself got me all cranked up. I wanted to finish it in one go.
+I managed to build this project in a single day, but it's too short to express the amount of work I put into it. This is the last submission in freeCodeCamp's certification, and that thought itself got me all cranked up. I wanted to finish it in one go.
 
-By the time I started this project, I had learnt a few cool things like **wireframing**, **css-grid**, and I already had enough practice with **flexbox**, **gradients**. Plus, I also have had my experience with finding icons, images, and editing them. So, I was really confindent that I was going to finish it in a single day.
+By the time I started this project, I had learned a few cool things like **wireframing**, **css-grid**, and I already had enough practice with **flexbox**, **gradients**. Plus, I have had experience finding icons, images and editing them. So, I was really confindent that I was going to finish it in a single day.
 
 I started right in the morning. We were having a family reunion at that time. All of my family was having fun outside and I'm stuck in the house to babysit my little niece. Perfect time to code all day!
 
