@@ -1,6 +1,6 @@
 # Personal Portfolio Page
 
-I built this as a submission for my Responsive Web Design course on freeCodeCamp. This is the first portfolio page I've built. I put some of my projects and a few programming languages I'm confident coding in on this page. Visit it [here](https://charanmn7.github.io/Personal-Portfolio-Page/).
+I built this as a submission for my Responsive Web Design course on freeCodeCamp. This is the first portfolio page I've built. I put some of my projects and a few programming languages I'm confident coding in on this page. Visit it [here](https://portfolio.charan.dev/).
 
 ## Table Of Contents 📖
 
@@ -90,8 +90,6 @@ Check out my other projects:
 Let's connect:
 
 - [LinkedIn](https://www.linkedin.com/in/charan-manikanta/)
-- [Twitter](https://twitter.com/CharanMN7)
-- [My Blog](https://charan-blog.netlify.app/)
-- [Hashnode](https://charanmn7.hashnode.dev/)
-- [Medium](https://medium.com/@CharanMN7)
+- [Twitter](https://twitter.com/CharanMNX)
+- [Hashnode](https://charan.blog/)
 - [CodePen](https://codepen.io/charan_)
